@@ -1,10 +1,6 @@
-<<<<<<< HEAD
-Naitik and Pravallika is helping Mirza
-=======
 
 feature 1 wip
 feature 1 with 2 bugs
 feature 1 with 2 bugs feature 2 wip
 feature 1 with 1 bug
 feature 1 with 1 bug
->>>>>>> release1
